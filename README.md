@@ -19,7 +19,8 @@ A simple and responsive calculator web application built using HTML, CSS, and Ja
 
 ## 📸 Screenshots
 
-![Screenshot 2025-06-13 162237](https://github.com/user-attachments/assets/ba0608a6-cd26-40ec-8d33-a4a85f5e0a47)
+![Uploading Screenshot 2025-06-13 183054.png…]()
+
 
 ## 🛠️ Installation
 
