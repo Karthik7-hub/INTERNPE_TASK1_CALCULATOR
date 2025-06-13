@@ -39,9 +39,4 @@ A simple and responsive calculator web application built using HTML, CSS, and Ja
 
 * **Karthik** - [GitHub Profile](https://github.com/Karthik7-hub)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
 
